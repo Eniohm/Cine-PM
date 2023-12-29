@@ -2,7 +2,7 @@ package com.ejemplo1;
 
 public class Funcion{
     private Sala sala;
-    private String horaInicio;
+    private String horaInicio; 
     private String horaTermino;
     private int precio;
 

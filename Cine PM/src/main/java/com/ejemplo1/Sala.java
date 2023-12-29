@@ -1,6 +1,4 @@
 package com.ejemplo1;
-import java.util.ArrayList;
-import java.util.List;
 
 class Sala{
     private String num;
